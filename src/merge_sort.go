@@ -59,7 +59,7 @@ func _merge_sort(arr []int, buf []int) []int {
 }
 
 func main() {
-	n := 10
+	n := 100
 	a := make([]int, n, n)
 
 	prefix := ""
